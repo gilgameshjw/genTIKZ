@@ -1,4 +1,3 @@
-```markdown
 # TikZ Figure Generator
 
 This project is designed to generate custom TikZ figures based on user inputs provided through a simple UI. The project leverages OpenAI’s language model API to interpret user descriptions and generate appropriate LaTeX TikZ code that can be compiled into various output formats, such as PDF, PNG, JPEG, and SVG.
@@ -75,4 +74,3 @@ If you encounter any issues with LaTeX compilation, ensure `pdflatex` is install
 ## License
 
 This project is open source and freely available for educational and non-commercial use. Please attribute appropriately when using or modifying.
-```
