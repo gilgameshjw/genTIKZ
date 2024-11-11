@@ -1,0 +1,4 @@
+# config file for the project
+# This file contains the configuration for the project
+
+openai_api_key: YOUROPENAIKEYHERE
